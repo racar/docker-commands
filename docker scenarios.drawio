@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T15:06:13.489Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" version="13.6.5" etag="A2fBKwCx9x8BjFJUfVbp" type="github"><diagram id="oh9SqNBaEuNPPj_Xymk3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-01T15:11:51.299Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="SO1ae4d-8x8tELb14iei" version="13.6.5" type="github">
+  <diagram id="oh9SqNBaEuNPPj_Xymk3" name="Page-1">
+    <mxGraphModel dx="1399" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dwMQlM8bfi8Tf-a9p3rM-2" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 16px ; font-weight: 700&quot;&gt;Scaling applications&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="585" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwMQlM8bfi8Tf-a9p3rM-3" value="&lt;span id=&quot;docs-internal-guid-0180b2c8-7fff-6a5b-bf55-cfb4c9afebb4&quot; style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 12pt ; font-weight: 700 ; text-align: center&quot;&gt;Packaging and deployment automation&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="179" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dwMQlM8bfi8Tf-a9p3rM-4" value="&lt;span id=&quot;docs-internal-guid-0180b2c8-7fff-6a5b-bf55-cfb4c9afebb4&quot; style=&quot;text-align: left&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 12pt ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; color: rgb(34 , 34 , 34) ; font-weight: 700 ; vertical-align: baseline&quot;&gt;Testing and continuous integration&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="435" y="160" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dwMQlM8bfi8Tf-a9p3rM-5" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 16px ; font-weight: 700&quot;&gt;Creation of PAAS environments&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dwMQlM8bfi8Tf-a9p3rM-6" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;fillColor=none;strokeColor=#FF8000;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="80" y="186" width="348" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
